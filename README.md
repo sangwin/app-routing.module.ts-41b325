@@ -1,6 +1,3 @@
-markdown
-
-````
 
 # Custom Preloading Strategy in Angular
 
@@ -100,4 +97,3 @@ Website: [https://sangw.in](https://sangw.in)
 ---
 
 Cheers!!
-````
